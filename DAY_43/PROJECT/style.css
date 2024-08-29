@@ -1,0 +1,28 @@
+*{
+    text-align: center;
+}
+
+.color-title{
+    font-size: 40;
+}
+
+#red{
+    color: red;
+}
+
+#yellow{
+    color:yellow;
+}
+
+#black{
+    color: black;
+}
+
+#blue{
+    color:blue;
+}
+
+img{
+    height: 200px;
+    width: 200px;
+}
